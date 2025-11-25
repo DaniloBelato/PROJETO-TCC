@@ -1,6 +1,7 @@
 📘 Projeto-TCC
 
-Este repositório contém o código-fonte desenvolvido para o Trabalho de Conclusão de Curso (TCC) de Danilo Venancio Belato.
+Este repositório contém o código-fonte desenvolvido para o Trabalho de Conclusão de Curso (TCC)
+
 O projeto tem como objetivo comparar dois estilos de desenvolvimento de software:
 
 Projeto A: Estruturado, organizado feito manual
@@ -9,8 +10,7 @@ Projeto B: Desenvolvido com apoio de Inteligência Artificial, estilo vibe codin
 
 A análise inclui aspectos como estrutura, organização, padronização, clareza do código, manutenibilidade e eficiência.
 
-🚀 Tecnologias Utilizadas
-Backend
+Tecnologias Utilizadas
 
 Java 17
 
@@ -30,7 +30,7 @@ Git & GitHub
 
 ChatGPT (para geração de partes do código no Projeto B)
 
-🧪 Objetivo da Pesquisa
+Objetivo da Pesquisa
 
 A pesquisa visa comparar abordagens distintas de desenvolvimento:
 
@@ -59,16 +59,16 @@ Implementações rápidas
 
 Estilo vibe coding
 
-📁 Acesso ao Código Completo
+Acesso ao Código Completo
 
 Todo o código utilizado no TCC está disponível neste repositório:
 
-👉 Repositório GitHub:
+Repositório GitHub:
 https://github.com/DaniloBelato/PROJETO-TCC/tree/main/projectA
 
 https://github.com/DaniloBelato/PROJETO-TCC/tree/main/projectB
 
-📸 Figuras Utilizadas no Trabalho
+Figuras Utilizadas no Trabalho
 
 Imagens das estruturas de código foram adicionadas no TCC para fins de comparação, incluindo:
 
@@ -84,8 +84,9 @@ Organização em pacotes e camadas
 
 Este projeto foi desenvolvido exclusivamente para fins acadêmicos.
 
-✒ Autor
-
+Autor
 Danilo Venancio Belato
+
 Estudante de Sistemas de Informação – UNIS-MG
+
 GitHub: https://github.com/DaniloBelato
