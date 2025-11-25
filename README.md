@@ -1,5 +1,4 @@
 📘 Projeto-TCC
-Relato de Experiência no Desenvolvimento de APIs com Spring Boot
 
 Este repositório contém o código-fonte desenvolvido para o Trabalho de Conclusão de Curso (TCC) de Danilo Venancio Belato.
 O projeto tem como objetivo comparar dois estilos de desenvolvimento de software:
