@@ -4,7 +4,7 @@ Este repositório contém o código-fonte desenvolvido para o Trabalho de Conclu
 
 O projeto tem como objetivo comparar dois estilos de desenvolvimento de software:
 
-Projeto A: Estruturado, organizado feito manual
+Projeto A: Estruturado, organizado, feito manual.
 
 Projeto B: Desenvolvido com apoio de Inteligência Artificial, estilo vibe coding.
 
